@@ -1,0 +1,22 @@
+{
+    "name": "mahmoued/notes",
+    "description": "Package to be used for handling notes",
+    "type": "library",
+    "require": {
+        "laravel/framework": ">=8.0.0",
+        "dyrynda/laravel-efficient-uuid": "4.5.3",
+        "dyrynda/laravel-model-uuid": "6.6.3"
+    },
+    "license": "BSD-2-Clause",
+    "autoload": {
+        "psr-4": {
+            "Mahmoued\\Notes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahmoued Mohamed",
+            "email": "mahmouedmartin222@yahoo.com"
+        }
+    ]
+}
